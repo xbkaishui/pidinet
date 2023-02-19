@@ -1,0 +1,1 @@
+python main.py --model pidinet_converted --config carv4 --sa --dil -j 1 --gpu 0 --savedir /opt/mmlab/pidinet/results --datadir /tmp/seed/resized --dataset Custom --evaluate /opt/mmlab/pidinet/trained_models/table5_pidinet.pth --evaluate-converted
